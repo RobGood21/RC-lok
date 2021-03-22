@@ -4,6 +4,7 @@
     Author:     Rob Antonisse
 
 	Testen met rc gebruik makend van een NRF24L01 mini smd
+	aan
 
 
 */
